@@ -1,2 +1,2 @@
 # ML-projects
-Branch Dedicated to Machine Learning projects and ideas.
+Rep dedicated to Machine Learning projects and ideas.
